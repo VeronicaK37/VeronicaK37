@@ -26,6 +26,7 @@ I’m very new, but I enjoy learning step by step.
 ### 🔹 **Practice Pages**
 Simple pages built to understand layout, text, links, and images.  
 *HTML · CSS*
+https://github.com/VeronicaK37/course-assignment-html-css
 
 ### 🔹 **Responsive Layout Exercises**
 Trying out flexbox, grid, and mobile-first design.  
