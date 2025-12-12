@@ -21,6 +21,20 @@ I’m very new, but I enjoy learning step by step.
 
 ## 📂 My Small Projects
 
+make at least one improvement to the individual projects
+Develop a SPA (Single Page Application) portfolio website using HTML, CSS and Vanilla JS only. In other words, no CSS/JS Frameworks are allowed. 
+
+ 
+The following assignments are required to be featured on your portfolio website:  
+
+Cross Course Project (Rainydays)  
+
+JavaScript 1  
+
+Semester Project 1 
+
+
+
 *(All projects come from my learning process — nothing fancy, but all real.)*
 
 ### 🔹 **Practice Pages**
