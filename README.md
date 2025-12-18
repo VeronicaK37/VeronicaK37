@@ -28,10 +28,14 @@ Develop a SPA (Single Page Application) portfolio website using HTML, CSS and Va
 The following assignments are required to be featured on your portfolio website:  
 
 Cross Course Project (Rainydays)  
-
-JavaScript 1  
+https://github.com/VeronicaK37/course-assignment-html-css
 
 Semester Project 1 
+https://github.com/VeronicaK37/SP1-science-museum
+
+JavaScript 1  
+https://github.com/VeronicaK37/20250913-JS1-Assignment
+
 
 
 
